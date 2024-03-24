@@ -13,27 +13,16 @@ Getting Started
 To run the Student Registration System locally on your machine, follow these steps:
 
 Clone the Repository:
-
-bash
-Copy code
 git clone <repository-url>
 cd Student-Registration-System
 Install Dependencies:
 Ensure you have Python installed on your system. Install required libraries using pip:
-
-bash
-Copy code
 pip install reportlab PyPDF2
 Run the Application:
 Execute the Python script student_registration_system.py:
-
-bash
-Copy code
 python student_registration_system.py
 Interact with the System:
 Fill in the required student information in the provided input fields and click the "Submit" button to register. The system will validate the data, generate a PDF report, and display a success message upon successful submission.
 
 Contributing
 Contributions to enhance the Student Registration System are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to fork the repository, make changes, and submit a pull request for review.
-
-
