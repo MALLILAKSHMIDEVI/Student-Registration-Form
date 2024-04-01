@@ -29,3 +29,8 @@ Fill in the required student information in the provided input fields and click 
 ## Contributing
 
 Contributions to enhance the Student Registration Form are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to fork the repository, make changes, and submit a pull request for review.
+
+
+
+
+
