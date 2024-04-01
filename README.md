@@ -1,3 +1,4 @@
+
 # Student Registration Form
 
 This project implements a simple student registration form application using Python's Tkinter library for the graphical user interface (GUI) and ReportLab library for generating PDF reports.
@@ -31,6 +32,9 @@ Fill in the required student information in the provided input fields and click 
 Contributions to enhance the Student Registration Form are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to fork the repository, make changes, and submit a pull request for review.
 
 
-
+##Output Sample Images
+![Screenshot (495)](https://github.com/MALLILAKSHMIDEVI/Student-Registration-Form/assets/147050362/dc38ca53-9bad-43b6-9ab5-eeea2d1f849f)
+![Screenshot (494)](https://github.com/MALLILAKSHMIDEVI/Student-Registration-Form/assets/147050362/7a39e02e-1445-4270-842e-82aa02e6dccf)
+![Screenshot (491)](https://github.com/MALLILAKSHMIDEVI/Student-Registration-Form/assets/147050362/43468fa2-e9e5-45dc-9982-92ee9bb6f723)
 
 
