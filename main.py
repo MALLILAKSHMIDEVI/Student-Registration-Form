@@ -158,3 +158,4 @@ submit_button = ttk.Button(input_frame, text="Submit", command=validate_data)
 submit_button.grid(row=5, columnspan=2, pady=10)
 
 root.mainloop()
+
